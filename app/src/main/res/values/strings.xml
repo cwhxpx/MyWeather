@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyWeather</string>
+    <string name="myweather_welcome">Welcome using MyWeather!</string>
+    <string name="weather_service_broadcast">com.justsydy.abdroid.myweather.PickupWeatherDataService</string>
+</resources>
